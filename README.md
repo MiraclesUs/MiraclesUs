@@ -13,7 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/channel/UCOT319NcU5hr7_c1ItAlkoQ?view_as=subscriber" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<p align="center">
+<a href="https://www.youtube.com/channel/UCKthnD_spgy1yISyHmnK4Tg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCOT319NcU5hr7_c1ItAlkoQ?view_as=subscriber" height="30" width="30" /></a>
+</p>
 
 <br />
 
